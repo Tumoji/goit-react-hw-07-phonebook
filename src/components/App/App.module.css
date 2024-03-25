@@ -1,0 +1,12 @@
+.phonebook {
+  padding: 20px;
+  border: 1px solid #949494;
+  border-radius: 20px;
+  color: yellowgreen;
+  background-color: rgb(245, 245, 245);
+}
+
+h2 {
+  margin: 0;
+  padding-top: 20px;
+}
